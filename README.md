@@ -1,8 +1,10 @@
 <h2>Hello, I'm Jurabek!<img src="https://media3.giphy.com/media/MCXpHZt0E3wuDIWUkQ/giphy.gif?cid=790b7611085a1657c7a3b3c9933d62e919a620b786919b85&rid=giphy.gif&ct=s" width="40"></h2>
-
 <div>
 <a href="https://t.me/jurabekaminov" target="_blank" rel="nofollow"><img align="left" alt="Jurabek's tg" width="30px" src="https://img.icons8.com/nolan/344/telegram-app.png"/></a>
-</div>  
+<a href="dzhurabek.aminov.dev@mail.ru" target="_blank" rel="nofollow"><img align="left" alt="Jurabek's Mail" width="30px" src="https://img.icons8.com/nolan/256/1A6DFF/C822FF/new-post.png" /></a>
+</div>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamljN3Vwbmh5dzN0dDUzdWxhejU4enIzenUzZXQ4dzZubXVlbjB1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBSQu6cuMoBZMC6daR/giphy.gif" width="230">  
+
 <br />
 
 ## 📝 A little bit about me:
@@ -10,7 +12,9 @@
 Engineer with a passion for problem-solving. Currently working as a Python developer at [***Aezakmi Group***](https://aezakmi.group). Enjoy studying the design, architecture of modern software, good code writing practices and much more.
 
 ## 👨🏻‍💻 Experience
-- 💼 ***Aezakmi Group*** as a *Python developer (Feb 2023 - ...)*
+
+*Current occupation* 💼 ***Aezakmi Group***, *Python developer (Feb 2023 - ...)*
+- 💼 *Ex*: *IT-clinic SPBU*, *Python intern (Sep 2022 - Feb 2023)*
 
 ## 🎓 Education
 - 🎓 Bachelor's degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2020 - 2024
