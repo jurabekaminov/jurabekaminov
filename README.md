@@ -1,12 +1,9 @@
 <h2>Hello, I'm Jurabek!<img src="https://media3.giphy.com/media/MCXpHZt0E3wuDIWUkQ/giphy.gif?cid=790b7611085a1657c7a3b3c9933d62e919a620b786919b85&rid=giphy.gif&ct=s" width="40"></h2>
 
 <div>
-  
 <a href="https://t.me/jurabekaminov" target="_blank" rel="nofollow"><img align="left" alt="Jurabek's tg" width="30px" src="https://img.icons8.com/nolan/344/telegram-app.png"/></a>
 </div>  
-
-
-
+<br />
 
 ## 📝 A little bit about me:
 
