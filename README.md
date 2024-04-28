@@ -5,8 +5,7 @@
 <a href="https://t.me/jurabekaminov" target="_blank" rel="nofollow"><img align="left" alt="Jurabek's tg" width="30px" src="https://img.icons8.com/nolan/344/telegram-app.png"/></a>
 </div>  
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">  
-<br />
+
 
 
 ## 📝 A little bit about me:
