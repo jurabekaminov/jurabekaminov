@@ -55,7 +55,7 @@ Engineer with a passion for problem-solving. Currently working as a Python devel
 
 ### Message Brokers
 <p>
-  <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="90" />
+  <img src="https://img.shields.io/badge/-Apache Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="150" />
   <img src="https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=red" alt="Redis" width="90" />
 </p>
 
