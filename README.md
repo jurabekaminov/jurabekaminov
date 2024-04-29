@@ -49,16 +49,36 @@ Engineer with a passion for problem-solving. Currently working as a Python devel
 <p>
   <img src="https://img.shields.io/badge/-SQLAlchemy-000000?logo=sqlalchemy&logoColor=None" alt="SQLAlchemy" width="120">
   <img src="https://img.shields.io/badge/-Pydantic-000000?logo=pydantic&logoColor=pink" alt="Pydantic" width="110">
-  <img src="https://img.shields.io/badge/-Celery-000000?logo=celery&logoColor=green" alt="Celery" width="95">
-  <img src="https://img.shields.io/badge/-Selenium-000000?logo=selenium&logoColor=green" alt="Selenium" width="100"/>
-  <img src="https://img.shields.io/badge/-Pytest-000000?logo=pytest&logoColor=white" alt="PyTest" width="95"/>
+  <img src="https://img.shields.io/badge/-Celery-000000?logo=celery&logoColor=green" alt="Celery" width="90">
+  
+</p>
+
+### Message Brokers
+<p>
+  <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="90" />
+  <img src="https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=red" alt="Redis" width="90" />
+</p>
+
+### Web Servers
+<p>
+  <img src="https://img.shields.io/badge/-Nginx-000000?logo=nginx&logoColor=green" alt="Nginx" width="90" />
+  <img src="https://img.shields.io/badge/-Gunicorn-000000?logo=gunicorn&logoColor=green" alt="Gunicorn" width="120" />
 </p>
 
 ### CI/CD
 <p>
   <img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=blue" alt="Docker" width="100" />
-
 </p>
+
+### Testing
+<p>
+  <img src="https://img.shields.io/badge/-Pytest-000000?logo=pytest&logoColor=white" alt="PyTest" width="95"/>
+  <img src="https://img.shields.io/badge/-Selenium-000000?logo=selenium&logoColor=green" alt="Selenium" width="110"/>
+  <img src="https://img.shields.io/badge/-Postman-000000?logo=postman&logoColor=orange" alt="Postman" width="100" />
+</p>
+
+
+
 
 ### Other tools
 <p>
@@ -66,11 +86,6 @@ Engineer with a passion for problem-solving. Currently working as a Python devel
   <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" alt="GitHub" width="106" />
   <img src="https://img.shields.io/badge/-GitLab-000000?logo=gitlab&logoColor=orange" alt="GitLab" width="100" />
 
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="100" />
-  <img src="https://img.shields.io/badge/-Nginx-000000?logo=nginx&logoColor=green" alt="Nginx" width="100" />
-  <img src="https://img.shields.io/badge/-Postman-000000?logo=postman&logoColor=orange" alt="Postman" width="128" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/-Linux-000000?logo=linux" alt="Linux" width="98" />
