@@ -14,7 +14,6 @@ Engineer with a passion for problem-solving. Currently working as a Python devel
 ## 👨🏻‍💻 Experience
 
 *Current occupation* 💼 ***Aezakmi Group***, *Python developer (Mar 2023 - ...)*
-- 💼 *Ex*: *IT-clinic SPBU*, *Python intern (Sep 2022 - Mar 2023)*
 
 ## 🎓 Education
 - 🎓 Bachelor's degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2020 - 2024
@@ -32,12 +31,13 @@ Engineer with a passion for problem-solving. Currently working as a Python devel
   <img src="https://img.shields.io/badge/Swift-001?&logo=Swift" alt="Cpp" width="80" />
 </p>
 
-### Databases
+### Databases and Storages
 <p>
   <img src="https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=blue" alt="PostgreSQL" width="130" />
   <img src="https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=red" alt="Redis" width="82" />
   <img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=green" alt="MongoDB" width="120" />
-  <img src="https://img.shields.io/badge/-SQLite-000000?logo=sqlite&logoColor=blue" alt="SQLite" width="100" />
+  <img src="https://img.shields.io/badge/-SQLite-000000?logo=sqlite&logoColor=blue" alt="SQLite" width="90" />
+  <img src="https://img.shields.io/badge/-MinIo-000000?logo=MinIo" alt="MinIo" width="90" />
 </p>
 
 ### Frameworks and Libraries
@@ -93,13 +93,6 @@ Engineer with a passion for problem-solving. Currently working as a Python devel
   <img src="https://img.shields.io/badge/MacOS-000000?logo=apple" alt="MacOS" width="100" />
 </p>
 
-
-## 📈 Competitions
-<p>
-  <a href='https://github.com/jurabekaminov/leetcode-stats'>
-    <img src="https://leetcode-stats-six.vercel.app/?username=1ordhokage&theme=dark" width="370" />
-  </a>
-</p>
 
 ## 📊 Github Stats
 <a href='https://github.com/jurabekaminov/github-stats-transparent'>
