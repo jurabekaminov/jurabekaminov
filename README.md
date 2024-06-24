@@ -95,9 +95,7 @@ Engineer with a passion for problem-solving. Currently working as a Python devel
 
 
 ## 📊 Github Stats
-<a href='https://github.com/jurabekaminov/github-stats-transparent'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurabekaminov&hide=QML&layout=compact&theme=synthwave" width="325"/>
-</a>
+
 <a href='https://github.com/AndyS1mpson/github-stats-transparent'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jurabekaminov&show_icons=true&hide_border=true&theme=synthwave" alt="AndyS GitHub Stats" width="425"/>
 </a>
