@@ -18,9 +18,6 @@ Engineer with a passion for problem-solving. Currently working as a Python devel
 ## 🎓 Education
 - 🎓 Bachelor's degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2020 - 2024
 
-## 📕 Supplemental education:
-- 📕 *"Python backend developer"* course from *Gazprom Neft (Nov 2022 - Feb 2023)*
-
 
 ## ⚙️ Core skills and tools
 
