@@ -9,11 +9,15 @@
 
 ## 📝 A little bit about me:
 
-Engineer with a passion for problem-solving. Currently working as a Python developer at [***Aezakmi Group***](https://aezakmi.group). Enjoy studying the design, architecture of modern software, good code writing practices and much more.
+Engineer with a passion for problem-solving. Currently working as a Python developer at [***Rutube***](https://rutube.ru). Enjoy studying the design, architecture of modern software, good code writing practices and much more.
 
 ## 👨🏻‍💻 Experience
 
-*Current occupation* 💼 ***Aezakmi Group***, *Python developer (Mar 2023 - ...)*
+*Current occupation* 💼 ***Rutube***, *Python developer (Aug 2024 - ...)*
+
+- 💼 **Ex**: _Aezakmi Group_, *Python developer (Mar 2023 - Jul 2024)*
+- 💼 **Ex**: _IT-clinic SPBU_, *Python trainee (Sep 2022- Mar 2023)*
+
 
 ## 🎓 Education
 - 🎓 Bachelor's degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2020 - 2024
