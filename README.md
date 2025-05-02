@@ -9,14 +9,14 @@
 
 ## 📝 A little bit about me:
 
-Engineer with a passion for problem-solving. Currently working as a Python developer at [***Rutube***](https://rutube.ru). Enjoy studying the design, architecture of modern software, good code writing practices and much more.
+Engineer with a passion for problem-solving. Currently working as a Python developer at [***RUTUBE***](https://rutube.ru). Enjoy studying the design, architecture of modern software, good code writing practices and much more.
 
-## 👨🏻‍💻 Experience
+## 💼 Experience
 
-*Current occupation* 💼 ***Rutube***, *Python developer (Aug 2024 - ...)*
+Current occupation:  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rutube_icon.svg/264px-Rutube_icon.svg.png?20241231145019" width=30>  **RUTUBE**, *Python developer (Aug 2024 - ...)*
 
-- 💼 **Ex**: _Aezakmi Group_, *Python developer (Mar 2023 - Jul 2024)*
-- 💼 **Ex**: _IT-clinic SPBU_, *Python trainee (Sep 2022- Mar 2023)*
+- Ex: <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHilp5WmBoyiw/company-logo_200_200/company-logo_200_200/0/1674819597998/aezakmi_group_logo?e=2147483647&v=beta&t=VJ4Oqaplsig5MN3ROz2B4qCKodqEDsfyP6Ugojw3cu8" width=30> **Aezakmi Group**, *Python developer (Mar 2023 - Jul 2024)*
+- Ex: <img src="https://precourses.spbu.ru/local/templates/trainingcenter/images/logo_new.png" width=30>  **IT-clinic SPBU**, *Python trainee (Sep 2022- Mar 2023)*
 
 
 ## 🎓 Education
